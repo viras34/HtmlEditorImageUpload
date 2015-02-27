@@ -33,12 +33,12 @@ lang:
 	For example to translate the plugin to spanish you'll have to add this array to the plugin options config
 
 	lang: {
-		'Display': 'Mostrar','By Default': 'Por Defecto','Inline': 'En línea con el texto','Block': 'En una línea a parte',
+		'Display': 'Mostrar','By Default': 'Por Defecto','Inline': 'En lÃ­nea con el texto','Block': 'En una lÃ­nea a parte',
 		'Insert/Edit Image': 'Insertar/Editar Imagen','Upload Image...': 'Subir Imagen...','Uploading your photo...': 'Subiendo su imagen...',
-		'Error': 'Error','Width': 'Ancho','Height': 'Alto','Align': 'Alineación','Title': 'Título','Class': 'Clase','Padding': 'Relleno','Margin': 'Margen',
-		'Top': 'Superior','Bottom': 'Inferior','Right': 'Derecha','Left': 'Izquierda','None': 'Ninguna','Size & Details': 'Tamaño y Detalles',
-		'More Options': 'Más Opciones','Style' : 'Estilo','OK' : 'Aceptar','Cancel': 'Cancelar','Delete Image':'Borrar Imagen',
-		'Confirmation':'Confirmación','Are you sure you want to delete this image?':'¿Está seguro de que desea eliminar esta imagen?','Your photo has been uploaded.':'Su imagen ha sido subida.'
+		'Error': 'Error','Width': 'Ancho','Height': 'Alto','Align': 'AlineaciÃ³n','Title': 'TÃ­tulo','Class': 'Clase','Padding': 'Relleno','Margin': 'Margen',
+		'Top': 'Superior','Bottom': 'Inferior','Right': 'Derecha','Left': 'Izquierda','None': 'Ninguna','Size & Details': 'TamaÃ±o y Detalles',
+		'More Options': 'MÃ¡s Opciones','Style' : 'Estilo','OK' : 'Aceptar','Cancel': 'Cancelar','Delete Image':'Borrar Imagen',
+		'Confirmation':'ConfirmaciÃ³n','Are you sure you want to delete this image?':'Â¿EstÃ¡ seguro de que desea eliminar esta imagen?','Your photo has been uploaded.':'Su imagen ha sido subida.'
 	}
 
 
@@ -87,3 +87,4 @@ iframeCss:
 	Path to the css file that will be applied to the htmleditor iframe. By default is css/iframe_css
 	It's important to do not merge this css with other CSS files, because it will be applied to the htmleditor 
 	iframe head. If more css rules are included, it can suffer undesired effects
+Join the chat at https://gitter.im/viras34/HtmlEditorImageUpload
